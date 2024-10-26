@@ -1,0 +1,4 @@
+root root -1 600 2 all 1
+1 1 -1 600 2 all 1
+thaisieudz root44 -1 600 2 all 1
+
